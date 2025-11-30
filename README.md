@@ -55,7 +55,6 @@ Socukai is a modern web application designed to simplify and automate tax compli
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/socukai.git
 cd socukai
 npm install
 ```
